@@ -1,2 +1,3 @@
 # Projeto-Lp-arquiteto
-este é o primero desafio da escola DNC, uma landing page como portfolio para uma empresa de arquitetura
+link do site disponibilizado: https://arquiteturaresidencialecomerciall.netlify.app/
+link da planilha de registro de informação: https://docs.google.com/spreadsheets/d/1D_e2YdWTaNaY10tPCW_vWvPqyUKuKL3jZUbG-M-Co28/edit#gid=0
